@@ -1,0 +1,257 @@
+E:\Manoj\Sample Projects\ChatApp\ChatApp\obj\Debug\ChatApp.UI.csprojResolveAssemblyReference.cache
+E:\Manoj\Sample Projects\ChatApp\ChatApp\obj\Debug\ChatApp.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\ChatApp.dll.config
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\ChatApp.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\ChatApp.pdb
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\ChatApp.Domain.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Owin.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Newtonsoft.Json.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Ninject.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Owin.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Net.Http.Formatting.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Helpers.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Http.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Http.WebHost.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Mvc.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Razor.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.WebPages.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\EntityFramework.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\ChatApp.Domain.pdb
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Owin.xml
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.xml
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Newtonsoft.Json.xml
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Ninject.xml
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Net.Http.Formatting.xml
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Helpers.xml
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Http.xml
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Http.WebHost.xml
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Mvc.xml
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Razor.xml
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.WebPages.xml
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.xml
+E:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.xml
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\ChatApp.dll.config
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\ChatApp.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\ChatApp.pdb
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\ChatApp.Domain.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Owin.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Newtonsoft.Json.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Ninject.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Owin.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Helpers.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Mvc.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Razor.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.WebPages.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\EntityFramework.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\ChatApp.Domain.pdb
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Owin.xml
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.xml
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Newtonsoft.Json.xml
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\Ninject.xml
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Helpers.xml
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Mvc.xml
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.Razor.xml
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.WebPages.xml
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.xml
+D:\Manoj\Sample Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.xml
+D:\Manoj\Sample Projects\ChatApp\ChatApp\obj\Debug\ChatApp.UI.csprojResolveAssemblyReference.cache
+D:\Manoj\Sample Projects\ChatApp\ChatApp\obj\Debug\ChatApp.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\ChatApp.dll.config
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\ChatApp.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\ChatApp.pdb
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\ChatApp.Domain.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Microsoft.Owin.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Newtonsoft.Json.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Ninject.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Owin.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\System.Web.Helpers.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\System.Web.Mvc.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\System.Web.Razor.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\System.Web.WebPages.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\EntityFramework.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\ChatApp.Domain.pdb
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Microsoft.Owin.xml
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.xml
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Newtonsoft.Json.xml
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\Ninject.xml
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\System.Web.Helpers.xml
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\System.Web.Mvc.xml
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\System.Web.Razor.xml
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\System.Web.WebPages.xml
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.xml
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.xml
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\obj\Debug\ChatApp.UI.csprojResolveAssemblyReference.cache
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\obj\Debug\ChatApp.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+F:\Projects\chatapp\ChatApp\obj\Debug\ChatApp.UI.csprojAssemblyReference.cache
+F:\Projects\chatapp\ChatApp\obj\Debug\ChatApp.UI.csproj.CoreCompileInputs.cache
+F:\Projects\chatapp\ChatApp\obj\Debug\ChatApp.dll
+F:\Projects\chatapp\ChatApp\obj\Debug\ChatApp.pdb
+F:\Projects\chatapp\ChatApp\bin\ChatApp.dll.config
+F:\Projects\chatapp\ChatApp\bin\ChatApp.dll
+F:\Projects\chatapp\ChatApp\bin\ChatApp.pdb
+F:\Projects\chatapp\ChatApp\bin\ChatApp.Domain.dll
+F:\Projects\chatapp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+F:\Projects\chatapp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+F:\Projects\chatapp\ChatApp\bin\Microsoft.Owin.dll
+F:\Projects\chatapp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Projects\chatapp\ChatApp\bin\Microsoft.Owin.Security.dll
+F:\Projects\chatapp\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Projects\chatapp\ChatApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Projects\chatapp\ChatApp\bin\Newtonsoft.Json.dll
+F:\Projects\chatapp\ChatApp\bin\Ninject.dll
+F:\Projects\chatapp\ChatApp\bin\Owin.dll
+F:\Projects\chatapp\ChatApp\bin\System.Net.Http.Formatting.dll
+F:\Projects\chatapp\ChatApp\bin\System.Web.Helpers.dll
+F:\Projects\chatapp\ChatApp\bin\System.Web.Http.dll
+F:\Projects\chatapp\ChatApp\bin\System.Web.Http.WebHost.dll
+F:\Projects\chatapp\ChatApp\bin\System.Web.Mvc.dll
+F:\Projects\chatapp\ChatApp\bin\System.Web.Razor.dll
+F:\Projects\chatapp\ChatApp\bin\System.Web.WebPages.Deployment.dll
+F:\Projects\chatapp\ChatApp\bin\System.Web.WebPages.dll
+F:\Projects\chatapp\ChatApp\bin\System.Web.WebPages.Razor.dll
+F:\Projects\chatapp\ChatApp\bin\EntityFramework.dll
+F:\Projects\chatapp\ChatApp\bin\ChatApp.Domain.pdb
+F:\Projects\chatapp\ChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+F:\Projects\chatapp\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+F:\Projects\chatapp\ChatApp\bin\Microsoft.Owin.xml
+F:\Projects\chatapp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Projects\chatapp\ChatApp\bin\Microsoft.Owin.Security.xml
+F:\Projects\chatapp\ChatApp\bin\Newtonsoft.Json.xml
+F:\Projects\chatapp\ChatApp\bin\Ninject.xml
+F:\Projects\chatapp\ChatApp\bin\System.Net.Http.Formatting.xml
+F:\Projects\chatapp\ChatApp\bin\System.Web.Helpers.xml
+F:\Projects\chatapp\ChatApp\bin\System.Web.Http.xml
+F:\Projects\chatapp\ChatApp\bin\System.Web.Http.WebHost.xml
+F:\Projects\chatapp\ChatApp\bin\System.Web.Mvc.xml
+F:\Projects\chatapp\ChatApp\bin\System.Web.Razor.xml
+F:\Projects\chatapp\ChatApp\bin\System.Web.WebPages.xml
+F:\Projects\chatapp\ChatApp\bin\System.Web.WebPages.Deployment.xml
+F:\Projects\chatapp\ChatApp\bin\System.Web.WebPages.Razor.xml
+F:\Projects\chatapp\ChatApp\obj\Debug\ChatApp.UI.csproj.CopyComplete
+D:\chat app\chatapp-master\ChatApp\obj\Debug\ChatApp.UI.csproj.AssemblyReference.cache
+D:\chat app\chatapp-master\ChatApp\obj\Debug\ChatApp.UI.csproj.CoreCompileInputs.cache
+D:\chat app\chatapp-master\ChatApp\obj\Debug\ChatApp.dll
+D:\chat app\chatapp-master\ChatApp\obj\Debug\ChatApp.pdb
+D:\chat app\chatapp-master\ChatApp\bin\ChatApp.dll
+D:\chat app\chatapp-master\ChatApp\bin\ChatApp.pdb
+D:\chat app\chatapp-master\ChatApp\bin\ChatApp.Domain.dll
+D:\chat app\chatapp-master\ChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\chat app\chatapp-master\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\chat app\chatapp-master\ChatApp\bin\Microsoft.Owin.dll
+D:\chat app\chatapp-master\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\chat app\chatapp-master\ChatApp\bin\Microsoft.Owin.Security.dll
+D:\chat app\chatapp-master\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+D:\chat app\chatapp-master\ChatApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\chat app\chatapp-master\ChatApp\bin\Newtonsoft.Json.dll
+D:\chat app\chatapp-master\ChatApp\bin\Ninject.dll
+D:\chat app\chatapp-master\ChatApp\bin\Owin.dll
+D:\chat app\chatapp-master\ChatApp\bin\System.Net.Http.Formatting.dll
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.Helpers.dll
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.Http.dll
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.Http.WebHost.dll
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.Mvc.dll
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.Razor.dll
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.WebPages.Deployment.dll
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.WebPages.dll
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.WebPages.Razor.dll
+D:\chat app\chatapp-master\ChatApp\bin\EntityFramework.dll
+D:\chat app\chatapp-master\ChatApp\bin\ChatApp.Domain.pdb
+D:\chat app\chatapp-master\ChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\chat app\chatapp-master\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\chat app\chatapp-master\ChatApp\bin\Microsoft.Owin.xml
+D:\chat app\chatapp-master\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\chat app\chatapp-master\ChatApp\bin\Microsoft.Owin.Security.xml
+D:\chat app\chatapp-master\ChatApp\bin\Newtonsoft.Json.xml
+D:\chat app\chatapp-master\ChatApp\bin\Ninject.xml
+D:\chat app\chatapp-master\ChatApp\bin\System.Net.Http.Formatting.xml
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.Helpers.xml
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.Http.xml
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.Http.WebHost.xml
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.Mvc.xml
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.Razor.xml
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.WebPages.xml
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.WebPages.Deployment.xml
+D:\chat app\chatapp-master\ChatApp\bin\System.Web.WebPages.Razor.xml
+D:\chat app\chatapp-master\ChatApp\obj\Debug\ChatApp.UI.csproj.CopyComplete
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\ChatApp.dll.config
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\ChatApp.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\ChatApp.pdb
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\ChatApp.Domain.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Microsoft.Owin.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Microsoft.Owin.Security.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Newtonsoft.Json.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Ninject.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Owin.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Net.Http.Formatting.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.Helpers.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.Http.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.Http.WebHost.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.Mvc.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.Razor.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.WebPages.Deployment.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.WebPages.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.WebPages.Razor.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\EntityFramework.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\ChatApp.Domain.pdb
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Microsoft.Owin.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Microsoft.Owin.Security.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Newtonsoft.Json.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\Ninject.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Net.Http.Formatting.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.Helpers.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.Http.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.Http.WebHost.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.Mvc.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.Razor.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.WebPages.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.WebPages.Deployment.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\bin\System.Web.WebPages.Razor.xml
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\obj\Debug\ChatApp.UI.csproj.AssemblyReference.cache
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\obj\Debug\ChatApp.UI.csproj.CoreCompileInputs.cache
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\obj\Debug\ChatApp.UI.csproj.CopyComplete
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\obj\Debug\ChatApp.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp\obj\Debug\ChatApp.pdb

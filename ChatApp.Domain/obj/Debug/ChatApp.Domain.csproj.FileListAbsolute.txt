@@ -1,0 +1,36 @@
+E:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\bin\Debug\ChatApp.Domain.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\bin\Debug\ChatApp.Domain.pdb
+E:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\bin\Debug\EntityFramework.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.dll
+E:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.pdb
+E:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.csprojResolveAssemblyReference.cache
+D:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\bin\Debug\ChatApp.Domain.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\bin\Debug\ChatApp.Domain.pdb
+D:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.dll
+D:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.pdb
+D:\Manoj\Sample Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.csprojResolveAssemblyReference.cache
+D:\Manoj\Sample_Projects\ChatApp\ChatApp.Domain\bin\Debug\ChatApp.Domain.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp.Domain\bin\Debug\ChatApp.Domain.pdb
+D:\Manoj\Sample_Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.dll
+D:\Manoj\Sample_Projects\ChatApp\ChatApp.Domain\obj\Debug\ChatApp.Domain.pdb
+F:\Projects\chatapp\ChatApp.Domain\bin\Debug\ChatApp.Domain.dll
+F:\Projects\chatapp\ChatApp.Domain\bin\Debug\ChatApp.Domain.pdb
+F:\Projects\chatapp\ChatApp.Domain\obj\Debug\ChatApp.Domain.csprojAssemblyReference.cache
+F:\Projects\chatapp\ChatApp.Domain\obj\Debug\ChatApp.Domain.csproj.CoreCompileInputs.cache
+F:\Projects\chatapp\ChatApp.Domain\obj\Debug\ChatApp.Domain.csproj.CopyComplete
+F:\Projects\chatapp\ChatApp.Domain\obj\Debug\ChatApp.Domain.dll
+F:\Projects\chatapp\ChatApp.Domain\obj\Debug\ChatApp.Domain.pdb
+D:\chat app\chatapp-master\ChatApp.Domain\obj\Debug\ChatApp.Domain.csproj.AssemblyReference.cache
+D:\chat app\chatapp-master\ChatApp.Domain\obj\Debug\ChatApp.Domain.csproj.CoreCompileInputs.cache
+D:\chat app\chatapp-master\ChatApp.Domain\obj\Debug\ChatApp.Domain.dll
+D:\chat app\chatapp-master\ChatApp.Domain\obj\Debug\ChatApp.Domain.pdb
+D:\chat app\chatapp-master\ChatApp.Domain\bin\Debug\ChatApp.Domain.dll
+D:\chat app\chatapp-master\ChatApp.Domain\bin\Debug\ChatApp.Domain.pdb
+D:\chat app\chatapp-master\ChatApp.Domain\obj\Debug\ChatApp.Domain.csproj.CopyComplete
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp.Domain\bin\Debug\ChatApp.Domain.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp.Domain\bin\Debug\ChatApp.Domain.pdb
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp.Domain\obj\Debug\ChatApp.Domain.csproj.AssemblyReference.cache
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp.Domain\obj\Debug\ChatApp.Domain.csproj.CoreCompileInputs.cache
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp.Domain\obj\Debug\ChatApp.Domain.csproj.CopyComplete
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp.Domain\obj\Debug\ChatApp.Domain.dll
+E:\CSF,KU MIS\2 S\Enterprise Archeticture\chatapp-Class-Project\ChatApp.Domain\obj\Debug\ChatApp.Domain.pdb
